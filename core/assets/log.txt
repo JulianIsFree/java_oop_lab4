@@ -1,0 +1,4935 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-12T15:39:26.694236400Z</date>
+  <millis>1623512366694</millis>
+  <nanos>236400</nanos>
+  <sequence>4</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail -238620712 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:26.694236400Z</date>
+  <millis>1623512366694</millis>
+  <nanos>236400</nanos>
+  <sequence>5</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -238620712} is extracted for car 1645523157</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:26.694236400Z</date>
+  <millis>1623512366694</millis>
+  <nanos>236400</nanos>
+  <sequence>1</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Detail 1647062152 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:26.694236400Z</date>
+  <millis>1623512366694</millis>
+  <nanos>236400</nanos>
+  <sequence>0</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail 1647446901 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:26.694236400Z</date>
+  <millis>1623512366694</millis>
+  <nanos>236400</nanos>
+  <sequence>6</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>32</thread>
+  <message>Detail 916863864 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:26.694236400Z</date>
+  <millis>1623512366694</millis>
+  <nanos>236400</nanos>
+  <sequence>2</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Detail 1645138408 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:26.694236400Z</date>
+  <millis>1623512366694</millis>
+  <nanos>236400</nanos>
+  <sequence>3</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1647446901} is extracted for car 1243834871</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:26.694236400Z</date>
+  <millis>1623512366694</millis>
+  <nanos>236400</nanos>
+  <sequence>11</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 890367884} is extracted for car 236338774</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:26.694236400Z</date>
+  <millis>1623512366694</millis>
+  <nanos>236400</nanos>
+  <sequence>9</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>Detail 1618555521 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:26.694236400Z</date>
+  <millis>1623512366694</millis>
+  <nanos>236400</nanos>
+  <sequence>8</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>Detail 964526411 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:26.694236400Z</date>
+  <millis>1623512366694</millis>
+  <nanos>236400</nanos>
+  <sequence>7</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>33</thread>
+  <message>Detail -1895647849 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:26.694236400Z</date>
+  <millis>1623512366694</millis>
+  <nanos>236400</nanos>
+  <sequence>10</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail 890367884 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:26.706217400Z</date>
+  <millis>1623512366706</millis>
+  <nanos>217400</nanos>
+  <sequence>14</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 1618555521} is extracted for car 236338774</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:26.705219200Z</date>
+  <millis>1623512366705</millis>
+  <nanos>219200</nanos>
+  <sequence>13</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 916863864} is extracted for car 1243834871</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:26.707213300Z</date>
+  <millis>1623512366707</millis>
+  <nanos>213300</nanos>
+  <sequence>16</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -1895647849} is extracted for car 1243834871</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:26.704220900Z</date>
+  <millis>1623512366704</millis>
+  <nanos>220900</nanos>
+  <sequence>12</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 1647062152} is extracted for car 1645523157</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:26.708211100Z</date>
+  <millis>1623512366708</millis>
+  <nanos>211100</nanos>
+  <sequence>17</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, 1243834871, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1647446901}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 916863864}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -1895647849}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:26.707213300Z</date>
+  <millis>1623512366707</millis>
+  <nanos>213300</nanos>
+  <sequence>15</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 1645138408} is extracted for car 236338774</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:26.708211100Z</date>
+  <millis>1623512366708</millis>
+  <nanos>211100</nanos>
+  <sequence>18</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 964526411} is extracted for car 1645523157</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:26.708211100Z</date>
+  <millis>1623512366708</millis>
+  <nanos>211100</nanos>
+  <sequence>19</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, 236338774, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 890367884}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 1618555521}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 1645138408}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:26.708211100Z</date>
+  <millis>1623512366708</millis>
+  <nanos>211100</nanos>
+  <sequence>20</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, 1645523157, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -238620712}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 1647062152}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 964526411}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:26.709206Z</date>
+  <millis>1623512366709</millis>
+  <nanos>206000</nanos>
+  <sequence>21</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.merchants.SellCarTask</class>
+  <method>run</method>
+  <thread>37</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, 1243834871, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1647446901}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 916863864}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -1895647849}} is sold</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:26.710205900Z</date>
+  <millis>1623512366710</millis>
+  <nanos>205900</nanos>
+  <sequence>22</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.merchants.SellCarTask</class>
+  <method>run</method>
+  <thread>38</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, 236338774, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 890367884}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 1618555521}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 1645138408}} is sold</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:26.710205900Z</date>
+  <millis>1623512366710</millis>
+  <nanos>205900</nanos>
+  <sequence>23</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.merchants.SellCarTask</class>
+  <method>run</method>
+  <thread>39</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, 1645523157, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -238620712}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 1647062152}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 964526411}} is sold</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:31.689561900Z</date>
+  <millis>1623512371689</millis>
+  <nanos>561900</nanos>
+  <sequence>25</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail 780421662 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:31.689561900Z</date>
+  <millis>1623512371689</millis>
+  <nanos>561900</nanos>
+  <sequence>35</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>Detail 951562498 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:31.689561900Z</date>
+  <millis>1623512371689</millis>
+  <nanos>561900</nanos>
+  <sequence>34</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 2123294795} is extracted for car 803927616</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:31.689561900Z</date>
+  <millis>1623512371689</millis>
+  <nanos>561900</nanos>
+  <sequence>32</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>33</thread>
+  <message>Detail -612131695 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:31.689561900Z</date>
+  <millis>1623512371689</millis>
+  <nanos>561900</nanos>
+  <sequence>33</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>32</thread>
+  <message>Detail 2026476123 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:31.689561900Z</date>
+  <millis>1623512371689</millis>
+  <nanos>561900</nanos>
+  <sequence>31</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -422932651} is extracted for car 559600603</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:31.689561900Z</date>
+  <millis>1623512371689</millis>
+  <nanos>561900</nanos>
+  <sequence>30</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail 2123294795 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:31.689561900Z</date>
+  <millis>1623512371689</millis>
+  <nanos>561900</nanos>
+  <sequence>28</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>Detail 1388618106 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:31.689561900Z</date>
+  <millis>1623512371689</millis>
+  <nanos>561900</nanos>
+  <sequence>26</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail -422932651 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:31.689561900Z</date>
+  <millis>1623512371689</millis>
+  <nanos>561900</nanos>
+  <sequence>29</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 780421662} is extracted for car -1060790668</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:31.689561900Z</date>
+  <millis>1623512371689</millis>
+  <nanos>561900</nanos>
+  <sequence>27</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Detail -73870606 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:31.689561900Z</date>
+  <millis>1623512371689</millis>
+  <nanos>561900</nanos>
+  <sequence>24</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Detail -50364652 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:31.691528200Z</date>
+  <millis>1623512371691</millis>
+  <nanos>528200</nanos>
+  <sequence>38</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 951562498} is extracted for car -1060790668</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:31.690530600Z</date>
+  <millis>1623512371690</millis>
+  <nanos>530600</nanos>
+  <sequence>37</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 2026476123} is extracted for car 559600603</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:31.690530600Z</date>
+  <millis>1623512371690</millis>
+  <nanos>530600</nanos>
+  <sequence>36</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -73870606} is extracted for car 803927616</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:31.692523400Z</date>
+  <millis>1623512371692</millis>
+  <nanos>523400</nanos>
+  <sequence>40</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 1388618106} is extracted for car 559600603</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:31.692523400Z</date>
+  <millis>1623512371692</millis>
+  <nanos>523400</nanos>
+  <sequence>39</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -50364652} is extracted for car -1060790668</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:31.692523400Z</date>
+  <millis>1623512371692</millis>
+  <nanos>523400</nanos>
+  <sequence>42</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, 559600603, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -422932651}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 2026476123}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 1388618106}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:31.692523400Z</date>
+  <millis>1623512371692</millis>
+  <nanos>523400</nanos>
+  <sequence>41</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -612131695} is extracted for car 803927616</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:31.692523400Z</date>
+  <millis>1623512371692</millis>
+  <nanos>523400</nanos>
+  <sequence>43</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, -1060790668, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 780421662}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 951562498}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -50364652}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:31.693520100Z</date>
+  <millis>1623512371693</millis>
+  <nanos>520100</nanos>
+  <sequence>44</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, 803927616, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 2123294795}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -73870606}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -612131695}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:31.711472200Z</date>
+  <millis>1623512371711</millis>
+  <nanos>472200</nanos>
+  <sequence>45</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.merchants.SellCarTask</class>
+  <method>run</method>
+  <thread>37</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, 559600603, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -422932651}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 2026476123}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 1388618106}} is sold</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:31.711472200Z</date>
+  <millis>1623512371711</millis>
+  <nanos>472200</nanos>
+  <sequence>47</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.merchants.SellCarTask</class>
+  <method>run</method>
+  <thread>39</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, 803927616, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 2123294795}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -73870606}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -612131695}} is sold</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:31.711472200Z</date>
+  <millis>1623512371711</millis>
+  <nanos>472200</nanos>
+  <sequence>46</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.merchants.SellCarTask</class>
+  <method>run</method>
+  <thread>38</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, -1060790668, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 780421662}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 951562498}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -50364652}} is sold</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:36.690399800Z</date>
+  <millis>1623512376690</millis>
+  <nanos>399800</nanos>
+  <sequence>50</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>Detail 2095679543 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:36.690399800Z</date>
+  <millis>1623512376690</millis>
+  <nanos>399800</nanos>
+  <sequence>49</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>33</thread>
+  <message>Detail 1715146268 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:36.690399800Z</date>
+  <millis>1623512376690</millis>
+  <nanos>399800</nanos>
+  <sequence>59</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 649960395} is extracted for car -1644720913</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:36.690399800Z</date>
+  <millis>1623512376690</millis>
+  <nanos>399800</nanos>
+  <sequence>52</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>32</thread>
+  <message>Detail -344543498 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:36.690399800Z</date>
+  <millis>1623512376690</millis>
+  <nanos>399800</nanos>
+  <sequence>51</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail 1623150108 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:36.690399800Z</date>
+  <millis>1623512376690</millis>
+  <nanos>399800</nanos>
+  <sequence>48</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail -1264187638 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:36.690399800Z</date>
+  <millis>1623512376690</millis>
+  <nanos>399800</nanos>
+  <sequence>58</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Detail 1600280920 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:36.690399800Z</date>
+  <millis>1623512376690</millis>
+  <nanos>399800</nanos>
+  <sequence>55</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail 649960395 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:36.690399800Z</date>
+  <millis>1623512376690</millis>
+  <nanos>399800</nanos>
+  <sequence>56</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1623150108} is extracted for car 10238401</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:36.690399800Z</date>
+  <millis>1623512376690</millis>
+  <nanos>399800</nanos>
+  <sequence>57</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Detail -2054964382 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:36.690399800Z</date>
+  <millis>1623512376690</millis>
+  <nanos>399800</nanos>
+  <sequence>54</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>Detail -1593076934 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:36.690399800Z</date>
+  <millis>1623512376690</millis>
+  <nanos>399800</nanos>
+  <sequence>53</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -1264187638} is extracted for car 374616672</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:36.692360600Z</date>
+  <millis>1623512376692</millis>
+  <nanos>360600</nanos>
+  <sequence>61</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -344543498} is extracted for car 10238401</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:36.690399800Z</date>
+  <millis>1623512376690</millis>
+  <nanos>399800</nanos>
+  <sequence>60</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 2095679543} is extracted for car -1644720913</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:36.692360600Z</date>
+  <millis>1623512376692</millis>
+  <nanos>360600</nanos>
+  <sequence>63</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 1715146268} is extracted for car 10238401</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:36.692360600Z</date>
+  <millis>1623512376692</millis>
+  <nanos>360600</nanos>
+  <sequence>62</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -2054964382} is extracted for car 374616672</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:36.693357100Z</date>
+  <millis>1623512376693</millis>
+  <nanos>357100</nanos>
+  <sequence>65</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, 10238401, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1623150108}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -344543498}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 1715146268}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:36.693357100Z</date>
+  <millis>1623512376693</millis>
+  <nanos>357100</nanos>
+  <sequence>64</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -1593076934} is extracted for car -1644720913</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:36.693357100Z</date>
+  <millis>1623512376693</millis>
+  <nanos>357100</nanos>
+  <sequence>66</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 1600280920} is extracted for car 374616672</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:36.693357100Z</date>
+  <millis>1623512376693</millis>
+  <nanos>357100</nanos>
+  <sequence>67</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, -1644720913, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 649960395}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 2095679543}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -1593076934}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:36.693357100Z</date>
+  <millis>1623512376693</millis>
+  <nanos>357100</nanos>
+  <sequence>68</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, 374616672, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -1264187638}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -2054964382}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 1600280920}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:36.712305800Z</date>
+  <millis>1623512376712</millis>
+  <nanos>305800</nanos>
+  <sequence>69</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.merchants.SellCarTask</class>
+  <method>run</method>
+  <thread>37</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, 10238401, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1623150108}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -344543498}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 1715146268}} is sold</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:36.712305800Z</date>
+  <millis>1623512376712</millis>
+  <nanos>305800</nanos>
+  <sequence>71</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.merchants.SellCarTask</class>
+  <method>run</method>
+  <thread>38</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, 374616672, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -1264187638}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -2054964382}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 1600280920}} is sold</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:36.712305800Z</date>
+  <millis>1623512376712</millis>
+  <nanos>305800</nanos>
+  <sequence>70</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.merchants.SellCarTask</class>
+  <method>run</method>
+  <thread>39</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, -1644720913, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 649960395}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 2095679543}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -1593076934}} is sold</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:41.691436Z</date>
+  <millis>1623512381691</millis>
+  <nanos>436000</nanos>
+  <sequence>73</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>33</thread>
+  <message>Detail 1396694300 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:41.691436Z</date>
+  <millis>1623512381691</millis>
+  <nanos>436000</nanos>
+  <sequence>80</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 399382227} is extracted for car 1700756514</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:41.691436Z</date>
+  <millis>1623512381691</millis>
+  <nanos>436000</nanos>
+  <sequence>72</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail -1073899714 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:41.691436Z</date>
+  <millis>1623512381691</millis>
+  <nanos>436000</nanos>
+  <sequence>77</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>Detail 2116339070 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:41.691436Z</date>
+  <millis>1623512381691</millis>
+  <nanos>436000</nanos>
+  <sequence>79</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1618008351} is extracted for car -1748959817</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:41.691436Z</date>
+  <millis>1623512381691</millis>
+  <nanos>436000</nanos>
+  <sequence>76</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -1073899714} is extracted for car -1111469437</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:41.691436Z</date>
+  <millis>1623512381691</millis>
+  <nanos>436000</nanos>
+  <sequence>78</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail 399382227 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:41.691436Z</date>
+  <millis>1623512381691</millis>
+  <nanos>436000</nanos>
+  <sequence>74</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Detail 1778608842 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:41.691436Z</date>
+  <millis>1623512381691</millis>
+  <nanos>436000</nanos>
+  <sequence>75</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail 1618008351 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:41.693425800Z</date>
+  <millis>1623512381693</millis>
+  <nanos>425800</nanos>
+  <sequence>81</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>Detail -1377961928 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:41.693425800Z</date>
+  <millis>1623512381693</millis>
+  <nanos>425800</nanos>
+  <sequence>86</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -30286182} is extracted for car 1700756514</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:41.693425800Z</date>
+  <millis>1623512381693</millis>
+  <nanos>425800</nanos>
+  <sequence>85</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Detail -30286182 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:41.693425800Z</date>
+  <millis>1623512381693</millis>
+  <nanos>425800</nanos>
+  <sequence>83</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -1377961928} is extracted for car -1748959817</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:41.693425800Z</date>
+  <millis>1623512381693</millis>
+  <nanos>425800</nanos>
+  <sequence>84</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 213119334} is extracted for car -1111469437</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:41.693425800Z</date>
+  <millis>1623512381693</millis>
+  <nanos>425800</nanos>
+  <sequence>82</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>32</thread>
+  <message>Detail 213119334 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:41.693425800Z</date>
+  <millis>1623512381693</millis>
+  <nanos>425800</nanos>
+  <sequence>89</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 2116339070} is extracted for car -1111469437</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:41.693425800Z</date>
+  <millis>1623512381693</millis>
+  <nanos>425800</nanos>
+  <sequence>88</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 1778608842} is extracted for car -1748959817</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:41.693425800Z</date>
+  <millis>1623512381693</millis>
+  <nanos>425800</nanos>
+  <sequence>87</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 1396694300} is extracted for car 1700756514</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:41.694421400Z</date>
+  <millis>1623512381694</millis>
+  <nanos>421400</nanos>
+  <sequence>91</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, -1748959817, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1618008351}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -1377961928}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 1778608842}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:41.694421400Z</date>
+  <millis>1623512381694</millis>
+  <nanos>421400</nanos>
+  <sequence>90</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, -1111469437, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -1073899714}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 213119334}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 2116339070}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:41.694421400Z</date>
+  <millis>1623512381694</millis>
+  <nanos>421400</nanos>
+  <sequence>92</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, 1700756514, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 399382227}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -30286182}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 1396694300}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:41.712382200Z</date>
+  <millis>1623512381712</millis>
+  <nanos>382200</nanos>
+  <sequence>93</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.merchants.SellCarTask</class>
+  <method>run</method>
+  <thread>37</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, -1111469437, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -1073899714}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 213119334}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 2116339070}} is sold</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:41.712382200Z</date>
+  <millis>1623512381712</millis>
+  <nanos>382200</nanos>
+  <sequence>94</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.merchants.SellCarTask</class>
+  <method>run</method>
+  <thread>38</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, -1748959817, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1618008351}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -1377961928}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 1778608842}} is sold</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:41.712382200Z</date>
+  <millis>1623512381712</millis>
+  <nanos>382200</nanos>
+  <sequence>95</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.merchants.SellCarTask</class>
+  <method>run</method>
+  <thread>39</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, 1700756514, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 399382227}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -30286182}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 1396694300}} is sold</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.691684100Z</date>
+  <millis>1623512386691</millis>
+  <nanos>684100</nanos>
+  <sequence>98</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail -1471812124 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.691684100Z</date>
+  <millis>1623512386691</millis>
+  <nanos>684100</nanos>
+  <sequence>104</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -728388461} is extracted for car 765702378</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.691684100Z</date>
+  <millis>1623512386691</millis>
+  <nanos>684100</nanos>
+  <sequence>102</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Detail -1887414861 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.691684100Z</date>
+  <millis>1623512386691</millis>
+  <nanos>684100</nanos>
+  <sequence>97</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail 1227075830 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.691684100Z</date>
+  <millis>1623512386691</millis>
+  <nanos>684100</nanos>
+  <sequence>96</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>33</thread>
+  <message>Detail -1044559230 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.691684100Z</date>
+  <millis>1623512386691</millis>
+  <nanos>684100</nanos>
+  <sequence>103</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail -728388461 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.691684100Z</date>
+  <millis>1623512386691</millis>
+  <nanos>684100</nanos>
+  <sequence>100</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>Detail -272426231 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.691684100Z</date>
+  <millis>1623512386691</millis>
+  <nanos>684100</nanos>
+  <sequence>101</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -1471812124} is extracted for car -1694243795</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.691684100Z</date>
+  <millis>1623512386691</millis>
+  <nanos>684100</nanos>
+  <sequence>99</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1227075830} is extracted for car 1675159768</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.693678300Z</date>
+  <millis>1623512386693</millis>
+  <nanos>678300</nanos>
+  <sequence>105</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>Detail -583185779 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.693678300Z</date>
+  <millis>1623512386693</millis>
+  <nanos>678300</nanos>
+  <sequence>110</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -921559528} is extracted for car 765702378</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.693678300Z</date>
+  <millis>1623512386693</millis>
+  <nanos>678300</nanos>
+  <sequence>109</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>32</thread>
+  <message>Detail -921559528 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.693678300Z</date>
+  <millis>1623512386693</millis>
+  <nanos>678300</nanos>
+  <sequence>106</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -583185779} is extracted for car -1694243795</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.693678300Z</date>
+  <millis>1623512386693</millis>
+  <nanos>678300</nanos>
+  <sequence>107</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Detail 875569173 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.693678300Z</date>
+  <millis>1623512386693</millis>
+  <nanos>678300</nanos>
+  <sequence>108</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 875569173} is extracted for car 1675159768</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.693678300Z</date>
+  <millis>1623512386693</millis>
+  <nanos>678300</nanos>
+  <sequence>112</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -272426231} is extracted for car -1694243795</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.693678300Z</date>
+  <millis>1623512386693</millis>
+  <nanos>678300</nanos>
+  <sequence>111</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -1044559230} is extracted for car 765702378</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.694676400Z</date>
+  <millis>1623512386694</millis>
+  <nanos>676400</nanos>
+  <sequence>114</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, -1694243795, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -1471812124}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -583185779}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -272426231}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.693678300Z</date>
+  <millis>1623512386693</millis>
+  <nanos>678300</nanos>
+  <sequence>113</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -1887414861} is extracted for car 1675159768</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.694676400Z</date>
+  <millis>1623512386694</millis>
+  <nanos>676400</nanos>
+  <sequence>115</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, 765702378, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -728388461}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -921559528}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -1044559230}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.694676400Z</date>
+  <millis>1623512386694</millis>
+  <nanos>676400</nanos>
+  <sequence>116</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, 1675159768, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1227075830}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 875569173}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -1887414861}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.792139800Z</date>
+  <millis>1623512386792</millis>
+  <nanos>139800</nanos>
+  <sequence>117</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail 1210657542 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.792139800Z</date>
+  <millis>1623512386792</millis>
+  <nanos>139800</nanos>
+  <sequence>122</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1833845434} is extracted for car -574157183</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.792139800Z</date>
+  <millis>1623512386792</millis>
+  <nanos>139800</nanos>
+  <sequence>120</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1728718600} is extracted for car 593316034</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.792139800Z</date>
+  <millis>1623512386792</millis>
+  <nanos>139800</nanos>
+  <sequence>121</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail 1833845434 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.792139800Z</date>
+  <millis>1623512386792</millis>
+  <nanos>139800</nanos>
+  <sequence>119</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail 1728718600 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.792139800Z</date>
+  <millis>1623512386792</millis>
+  <nanos>139800</nanos>
+  <sequence>118</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1210657542} is extracted for car -1105693613</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.892736100Z</date>
+  <millis>1623512386892</millis>
+  <nanos>736100</nanos>
+  <sequence>124</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail 1472876380 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.892736100Z</date>
+  <millis>1623512386892</millis>
+  <nanos>736100</nanos>
+  <sequence>125</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail -439192279 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.892736100Z</date>
+  <millis>1623512386892</millis>
+  <nanos>736100</nanos>
+  <sequence>123</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail 1458380331 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.993526Z</date>
+  <millis>1623512386993</millis>
+  <nanos>526000</nanos>
+  <sequence>126</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail -1356703597 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.993526Z</date>
+  <millis>1623512386993</millis>
+  <nanos>526000</nanos>
+  <sequence>128</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail 246953371 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:46.993526Z</date>
+  <millis>1623512386993</millis>
+  <nanos>526000</nanos>
+  <sequence>127</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail -2040652758 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:47.093942100Z</date>
+  <millis>1623512387093</millis>
+  <nanos>942100</nanos>
+  <sequence>130</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail -644463888 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:47.093942100Z</date>
+  <millis>1623512387093</millis>
+  <nanos>942100</nanos>
+  <sequence>131</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail -1681091045 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:47.093942100Z</date>
+  <millis>1623512387093</millis>
+  <nanos>942100</nanos>
+  <sequence>129</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail -33258852 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:47.194902700Z</date>
+  <millis>1623512387194</millis>
+  <nanos>902700</nanos>
+  <sequence>132</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail -1354667242 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:47.194902700Z</date>
+  <millis>1623512387194</millis>
+  <nanos>902700</nanos>
+  <sequence>134</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail 1564654485 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:47.194902700Z</date>
+  <millis>1623512387194</millis>
+  <nanos>902700</nanos>
+  <sequence>133</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail 1771202080 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:47.295726400Z</date>
+  <millis>1623512387295</millis>
+  <nanos>726400</nanos>
+  <sequence>135</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail -1629690675 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:47.295726400Z</date>
+  <millis>1623512387295</millis>
+  <nanos>726400</nanos>
+  <sequence>137</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail 2072917912 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:47.295726400Z</date>
+  <millis>1623512387295</millis>
+  <nanos>726400</nanos>
+  <sequence>136</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail 1481849444 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:47.396504Z</date>
+  <millis>1623512387396</millis>
+  <nanos>504000</nanos>
+  <sequence>138</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail -1653031592 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:47.396504Z</date>
+  <millis>1623512387396</millis>
+  <nanos>504000</nanos>
+  <sequence>140</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail 1106277458 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:47.396504Z</date>
+  <millis>1623512387396</millis>
+  <nanos>504000</nanos>
+  <sequence>139</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail 657927839 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:47.496745500Z</date>
+  <millis>1623512387496</millis>
+  <nanos>745500</nanos>
+  <sequence>141</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail 1882773485 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:47.496745500Z</date>
+  <millis>1623512387496</millis>
+  <nanos>745500</nanos>
+  <sequence>143</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail 199642109 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:47.496745500Z</date>
+  <millis>1623512387496</millis>
+  <nanos>745500</nanos>
+  <sequence>142</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail 1280538683 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:47.598766Z</date>
+  <millis>1623512387598</millis>
+  <nanos>766000</nanos>
+  <sequence>144</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail -879274982 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:47.598766Z</date>
+  <millis>1623512387598</millis>
+  <nanos>766000</nanos>
+  <sequence>146</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail 1894576829 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:47.598766Z</date>
+  <millis>1623512387598</millis>
+  <nanos>766000</nanos>
+  <sequence>145</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail -1856318669 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:47.699495700Z</date>
+  <millis>1623512387699</millis>
+  <nanos>495700</nanos>
+  <sequence>147</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail -501092310 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:47.699495700Z</date>
+  <millis>1623512387699</millis>
+  <nanos>495700</nanos>
+  <sequence>149</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail 910606602 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:47.699495700Z</date>
+  <millis>1623512387699</millis>
+  <nanos>495700</nanos>
+  <sequence>148</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail -1515916588 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:47.800253600Z</date>
+  <millis>1623512387800</millis>
+  <nanos>253600</nanos>
+  <sequence>150</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail 522906733 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:47.800253600Z</date>
+  <millis>1623512387800</millis>
+  <nanos>253600</nanos>
+  <sequence>152</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail 1018691116 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:47.800253600Z</date>
+  <millis>1623512387800</millis>
+  <nanos>253600</nanos>
+  <sequence>151</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail -1953752513 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:47.900985600Z</date>
+  <millis>1623512387900</millis>
+  <nanos>985600</nanos>
+  <sequence>153</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail -1292449978 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:47.900985600Z</date>
+  <millis>1623512387900</millis>
+  <nanos>985600</nanos>
+  <sequence>155</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail -1108995469 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:47.900985600Z</date>
+  <millis>1623512387900</millis>
+  <nanos>985600</nanos>
+  <sequence>154</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail 1910429119 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.001715Z</date>
+  <millis>1623512388001</millis>
+  <nanos>715000</nanos>
+  <sequence>156</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail -1879333292 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.001715Z</date>
+  <millis>1623512388001</millis>
+  <nanos>715000</nanos>
+  <sequence>158</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail 676131106 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.001715Z</date>
+  <millis>1623512388001</millis>
+  <nanos>715000</nanos>
+  <sequence>157</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail -592633134 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.102544400Z</date>
+  <millis>1623512388102</millis>
+  <nanos>544400</nanos>
+  <sequence>159</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail 1405187995 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.102544400Z</date>
+  <millis>1623512388102</millis>
+  <nanos>544400</nanos>
+  <sequence>161</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail -291906863 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.102544400Z</date>
+  <millis>1623512388102</millis>
+  <nanos>544400</nanos>
+  <sequence>160</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail -1939933380 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.203324400Z</date>
+  <millis>1623512388203</millis>
+  <nanos>324400</nanos>
+  <sequence>162</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail 1021047121 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.203324400Z</date>
+  <millis>1623512388203</millis>
+  <nanos>324400</nanos>
+  <sequence>164</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail 642519296 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.203324400Z</date>
+  <millis>1623512388203</millis>
+  <nanos>324400</nanos>
+  <sequence>163</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail 183902452 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.304079400Z</date>
+  <millis>1623512388304</millis>
+  <nanos>79400</nanos>
+  <sequence>165</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail -1132068347 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.304079400Z</date>
+  <millis>1623512388304</millis>
+  <nanos>79400</nanos>
+  <sequence>167</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail -756164576 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.304079400Z</date>
+  <millis>1623512388304</millis>
+  <nanos>79400</nanos>
+  <sequence>166</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail 1424992489 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.404776900Z</date>
+  <millis>1623512388404</millis>
+  <nanos>776900</nanos>
+  <sequence>168</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail -1397361758 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.404776900Z</date>
+  <millis>1623512388404</millis>
+  <nanos>776900</nanos>
+  <sequence>170</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail 1325834043 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.404776900Z</date>
+  <millis>1623512388404</millis>
+  <nanos>776900</nanos>
+  <sequence>169</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail 1453795956 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.505379300Z</date>
+  <millis>1623512388505</millis>
+  <nanos>379300</nanos>
+  <sequence>171</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail -295489682 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.505379300Z</date>
+  <millis>1623512388505</millis>
+  <nanos>379300</nanos>
+  <sequence>173</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail 2126769992 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.505379300Z</date>
+  <millis>1623512388505</millis>
+  <nanos>379300</nanos>
+  <sequence>172</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail 445305336 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.605792500Z</date>
+  <millis>1623512388605</millis>
+  <nanos>792500</nanos>
+  <sequence>174</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail -849633693 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.605792500Z</date>
+  <millis>1623512388605</millis>
+  <nanos>792500</nanos>
+  <sequence>176</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail -1711005721 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.605792500Z</date>
+  <millis>1623512388605</millis>
+  <nanos>792500</nanos>
+  <sequence>175</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail 1916860510 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.705880800Z</date>
+  <millis>1623512388705</millis>
+  <nanos>880800</nanos>
+  <sequence>177</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail -1375946506 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.705880800Z</date>
+  <millis>1623512388705</millis>
+  <nanos>880800</nanos>
+  <sequence>179</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail 1512316515 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.705880800Z</date>
+  <millis>1623512388705</millis>
+  <nanos>880800</nanos>
+  <sequence>178</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail 365530777 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.806666500Z</date>
+  <millis>1623512388806</millis>
+  <nanos>666500</nanos>
+  <sequence>180</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail -1892888623 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.806666500Z</date>
+  <millis>1623512388806</millis>
+  <nanos>666500</nanos>
+  <sequence>181</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail 1780096931 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.806666500Z</date>
+  <millis>1623512388806</millis>
+  <nanos>666500</nanos>
+  <sequence>182</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail 1019294406 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.906964600Z</date>
+  <millis>1623512388906</millis>
+  <nanos>964600</nanos>
+  <sequence>183</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail -891688470 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.906964600Z</date>
+  <millis>1623512388906</millis>
+  <nanos>964600</nanos>
+  <sequence>185</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail 1802801090 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:48.906964600Z</date>
+  <millis>1623512388906</millis>
+  <nanos>964600</nanos>
+  <sequence>184</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail -1752599732 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.007723800Z</date>
+  <millis>1623512389007</millis>
+  <nanos>723800</nanos>
+  <sequence>186</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail 1711643226 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.007723800Z</date>
+  <millis>1623512389007</millis>
+  <nanos>723800</nanos>
+  <sequence>188</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail 861221651 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.007723800Z</date>
+  <millis>1623512389007</millis>
+  <nanos>723800</nanos>
+  <sequence>187</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail -1202655333 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.109765800Z</date>
+  <millis>1623512389109</millis>
+  <nanos>765800</nanos>
+  <sequence>189</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail -1616964351 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.109765800Z</date>
+  <millis>1623512389109</millis>
+  <nanos>765800</nanos>
+  <sequence>191</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail 252915678 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.109765800Z</date>
+  <millis>1623512389109</millis>
+  <nanos>765800</nanos>
+  <sequence>190</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail 467491932 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.210710500Z</date>
+  <millis>1623512389210</millis>
+  <nanos>710500</nanos>
+  <sequence>192</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail -1400778175 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.210710500Z</date>
+  <millis>1623512389210</millis>
+  <nanos>710500</nanos>
+  <sequence>194</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail -776736830 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.210710500Z</date>
+  <millis>1623512389210</millis>
+  <nanos>710500</nanos>
+  <sequence>193</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail -1824952475 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.312735700Z</date>
+  <millis>1623512389312</millis>
+  <nanos>735700</nanos>
+  <sequence>195</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail -1916523872 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.312735700Z</date>
+  <millis>1623512389312</millis>
+  <nanos>735700</nanos>
+  <sequence>197</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail -856959309 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.312735700Z</date>
+  <millis>1623512389312</millis>
+  <nanos>735700</nanos>
+  <sequence>196</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail 668479675 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.412890700Z</date>
+  <millis>1623512389412</millis>
+  <nanos>890700</nanos>
+  <sequence>199</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail -2121929898 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.412890700Z</date>
+  <millis>1623512389412</millis>
+  <nanos>890700</nanos>
+  <sequence>198</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail -1425558270 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.412890700Z</date>
+  <millis>1623512389412</millis>
+  <nanos>890700</nanos>
+  <sequence>200</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail 813301998 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.513675300Z</date>
+  <millis>1623512389513</millis>
+  <nanos>675300</nanos>
+  <sequence>201</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail 1456541714 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.513675300Z</date>
+  <millis>1623512389513</millis>
+  <nanos>675300</nanos>
+  <sequence>203</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail -1261153983 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.513675300Z</date>
+  <millis>1623512389513</millis>
+  <nanos>675300</nanos>
+  <sequence>202</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail 2016838888 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.616681400Z</date>
+  <millis>1623512389616</millis>
+  <nanos>681400</nanos>
+  <sequence>205</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail 817478125 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.616681400Z</date>
+  <millis>1623512389616</millis>
+  <nanos>681400</nanos>
+  <sequence>206</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail -2122065751 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.616681400Z</date>
+  <millis>1623512389616</millis>
+  <nanos>681400</nanos>
+  <sequence>204</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail 81568954 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.717475800Z</date>
+  <millis>1623512389717</millis>
+  <nanos>475800</nanos>
+  <sequence>207</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail -1282009100 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.717475800Z</date>
+  <millis>1623512389717</millis>
+  <nanos>475800</nanos>
+  <sequence>209</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail -419565026 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.717475800Z</date>
+  <millis>1623512389717</millis>
+  <nanos>475800</nanos>
+  <sequence>208</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail 828401069 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.818353700Z</date>
+  <millis>1623512389818</millis>
+  <nanos>353700</nanos>
+  <sequence>210</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail 2060508985 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.818353700Z</date>
+  <millis>1623512389818</millis>
+  <nanos>353700</nanos>
+  <sequence>212</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail -953779085 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.818353700Z</date>
+  <millis>1623512389818</millis>
+  <nanos>353700</nanos>
+  <sequence>211</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail 1964467219 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.918603500Z</date>
+  <millis>1623512389918</millis>
+  <nanos>603500</nanos>
+  <sequence>213</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail -1388266936 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.918603500Z</date>
+  <millis>1623512389918</millis>
+  <nanos>603500</nanos>
+  <sequence>214</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail -1188031527 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:49.918603500Z</date>
+  <millis>1623512389918</millis>
+  <nanos>603500</nanos>
+  <sequence>215</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail -308684708 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:50.019532600Z</date>
+  <millis>1623512390019</millis>
+  <nanos>532600</nanos>
+  <sequence>216</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail -1594123379 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:50.019532600Z</date>
+  <millis>1623512390019</millis>
+  <nanos>532600</nanos>
+  <sequence>218</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail 872622579 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:50.019532600Z</date>
+  <millis>1623512390019</millis>
+  <nanos>532600</nanos>
+  <sequence>217</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail 1692057219 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:50.120217100Z</date>
+  <millis>1623512390120</millis>
+  <nanos>217100</nanos>
+  <sequence>220</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail -2091650751 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:50.120217100Z</date>
+  <millis>1623512390120</millis>
+  <nanos>217100</nanos>
+  <sequence>221</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail 165175870 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:50.120217100Z</date>
+  <millis>1623512390120</millis>
+  <nanos>217100</nanos>
+  <sequence>219</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail -1453164821 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:50.220948600Z</date>
+  <millis>1623512390220</millis>
+  <nanos>948600</nanos>
+  <sequence>222</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail -957652439 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:51.691860Z</date>
+  <millis>1623512391691</millis>
+  <nanos>860000</nanos>
+  <sequence>223</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Detail -1248139186 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:51.691860Z</date>
+  <millis>1623512391691</millis>
+  <nanos>860000</nanos>
+  <sequence>225</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>Detail -1055757707 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:51.691860Z</date>
+  <millis>1623512391691</millis>
+  <nanos>860000</nanos>
+  <sequence>224</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>33</thread>
+  <message>Detail -813582596 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:51.693852Z</date>
+  <millis>1623512391693</millis>
+  <nanos>852000</nanos>
+  <sequence>226</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>Detail -630797678 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:51.693852Z</date>
+  <millis>1623512391693</millis>
+  <nanos>852000</nanos>
+  <sequence>228</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -630797678} is extracted for car 593316034</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:51.693852Z</date>
+  <millis>1623512391693</millis>
+  <nanos>852000</nanos>
+  <sequence>230</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 2020829617} is extracted for car -1105693613</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:51.693852Z</date>
+  <millis>1623512391693</millis>
+  <nanos>852000</nanos>
+  <sequence>231</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 1352244911} is extracted for car -574157183</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:51.693852Z</date>
+  <millis>1623512391693</millis>
+  <nanos>852000</nanos>
+  <sequence>229</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Detail 1352244911 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:51.693852Z</date>
+  <millis>1623512391693</millis>
+  <nanos>852000</nanos>
+  <sequence>227</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>32</thread>
+  <message>Detail 2020829617 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:51.693852Z</date>
+  <millis>1623512391693</millis>
+  <nanos>852000</nanos>
+  <sequence>234</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -1055757707} is extracted for car -574157183</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:51.694850700Z</date>
+  <millis>1623512391694</millis>
+  <nanos>850700</nanos>
+  <sequence>235</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, -574157183, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1833845434}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 1352244911}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -1055757707}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:51.693852Z</date>
+  <millis>1623512391693</millis>
+  <nanos>852000</nanos>
+  <sequence>233</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -813582596} is extracted for car -1105693613</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:51.693852Z</date>
+  <millis>1623512391693</millis>
+  <nanos>852000</nanos>
+  <sequence>232</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -1248139186} is extracted for car 593316034</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:51.694850700Z</date>
+  <millis>1623512391694</millis>
+  <nanos>850700</nanos>
+  <sequence>238</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, -1105693613, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1210657542}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 2020829617}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -813582596}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:51.694850700Z</date>
+  <millis>1623512391694</millis>
+  <nanos>850700</nanos>
+  <sequence>237</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail -1829907783 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:51.694850700Z</date>
+  <millis>1623512391694</millis>
+  <nanos>850700</nanos>
+  <sequence>236</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1458380331} is extracted for car 1368893884</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:51.694850700Z</date>
+  <millis>1623512391694</millis>
+  <nanos>850700</nanos>
+  <sequence>241</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail -2102340399 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:51.694850700Z</date>
+  <millis>1623512391694</millis>
+  <nanos>850700</nanos>
+  <sequence>240</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1472876380} is extracted for car -436009523</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:51.694850700Z</date>
+  <millis>1623512391694</millis>
+  <nanos>850700</nanos>
+  <sequence>239</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, 593316034, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1728718600}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -630797678}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -1248139186}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:51.695848800Z</date>
+  <millis>1623512391695</millis>
+  <nanos>848800</nanos>
+  <sequence>242</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -439192279} is extracted for car -2109497246</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:51.695848800Z</date>
+  <millis>1623512391695</millis>
+  <nanos>848800</nanos>
+  <sequence>243</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail 1775318881 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:56.692421900Z</date>
+  <millis>1623512396692</millis>
+  <nanos>421900</nanos>
+  <sequence>244</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Detail 1350996594 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:56.692421900Z</date>
+  <millis>1623512396692</millis>
+  <nanos>421900</nanos>
+  <sequence>246</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>33</thread>
+  <message>Detail -1584564781 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:56.692421900Z</date>
+  <millis>1623512396692</millis>
+  <nanos>421900</nanos>
+  <sequence>245</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>Detail 900200215 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:56.694415700Z</date>
+  <millis>1623512396694</millis>
+  <nanos>415700</nanos>
+  <sequence>247</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>Detail 1440483041 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:56.694415700Z</date>
+  <millis>1623512396694</millis>
+  <nanos>415700</nanos>
+  <sequence>252</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 85740187} is extracted for car 1368893884</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:56.694415700Z</date>
+  <millis>1623512396694</millis>
+  <nanos>415700</nanos>
+  <sequence>251</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -1485881178} is extracted for car -2109497246</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:56.694415700Z</date>
+  <millis>1623512396694</millis>
+  <nanos>415700</nanos>
+  <sequence>250</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>32</thread>
+  <message>Detail 85740187 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:56.694415700Z</date>
+  <millis>1623512396694</millis>
+  <nanos>415700</nanos>
+  <sequence>248</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Detail -1485881178 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:56.694415700Z</date>
+  <millis>1623512396694</millis>
+  <nanos>415700</nanos>
+  <sequence>249</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 1440483041} is extracted for car -436009523</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:56.694415700Z</date>
+  <millis>1623512396694</millis>
+  <nanos>415700</nanos>
+  <sequence>254</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 900200215} is extracted for car -2109497246</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:56.694415700Z</date>
+  <millis>1623512396694</millis>
+  <nanos>415700</nanos>
+  <sequence>253</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 1350996594} is extracted for car 1368893884</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:56.695414400Z</date>
+  <millis>1623512396695</millis>
+  <nanos>414400</nanos>
+  <sequence>256</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, -2109497246, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -439192279}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -1485881178}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 900200215}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:56.694415700Z</date>
+  <millis>1623512396694</millis>
+  <nanos>415700</nanos>
+  <sequence>255</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -1584564781} is extracted for car -436009523</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:56.695414400Z</date>
+  <millis>1623512396695</millis>
+  <nanos>414400</nanos>
+  <sequence>259</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail 1500992869 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:56.695414400Z</date>
+  <millis>1623512396695</millis>
+  <nanos>414400</nanos>
+  <sequence>258</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -1356703597} is extracted for car -1334651043</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:56.695414400Z</date>
+  <millis>1623512396695</millis>
+  <nanos>414400</nanos>
+  <sequence>257</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, 1368893884, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1458380331}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 85740187}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 1350996594}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:56.695414400Z</date>
+  <millis>1623512396695</millis>
+  <nanos>414400</nanos>
+  <sequence>260</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, -436009523, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1472876380}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 1440483041}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -1584564781}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:56.696412600Z</date>
+  <millis>1623512396696</millis>
+  <nanos>412600</nanos>
+  <sequence>262</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail -1379820373 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:56.696412600Z</date>
+  <millis>1623512396696</millis>
+  <nanos>412600</nanos>
+  <sequence>261</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -2040652758} is extracted for car -1640772189</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:56.696412600Z</date>
+  <millis>1623512396696</millis>
+  <nanos>412600</nanos>
+  <sequence>263</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 246953371} is extracted for car 61492189</message>
+</record>
+<record>
+  <date>2021-06-12T15:39:56.696412600Z</date>
+  <millis>1623512396696</millis>
+  <nanos>412600</nanos>
+  <sequence>264</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail 2090308335 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:01.693350500Z</date>
+  <millis>1623512401693</millis>
+  <nanos>350500</nanos>
+  <sequence>265</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Detail 1246739845 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:01.693350500Z</date>
+  <millis>1623512401693</millis>
+  <nanos>350500</nanos>
+  <sequence>267</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>Detail -834593507 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:01.693350500Z</date>
+  <millis>1623512401693</millis>
+  <nanos>350500</nanos>
+  <sequence>266</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>33</thread>
+  <message>Detail -701802616 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:01.695344100Z</date>
+  <millis>1623512401695</millis>
+  <nanos>344100</nanos>
+  <sequence>268</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>Detail 1224687291 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:01.695344100Z</date>
+  <millis>1623512401695</millis>
+  <nanos>344100</nanos>
+  <sequence>273</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -649132324} is extracted for car 61492189</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:01.695344100Z</date>
+  <millis>1623512401695</millis>
+  <nanos>344100</nanos>
+  <sequence>274</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 1246739845} is extracted for car 61492189</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:01.695344100Z</date>
+  <millis>1623512401695</millis>
+  <nanos>344100</nanos>
+  <sequence>275</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, 61492189, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 246953371}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -649132324}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 1246739845}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:01.695344100Z</date>
+  <millis>1623512401695</millis>
+  <nanos>344100</nanos>
+  <sequence>271</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 1224687291} is extracted for car -1640772189</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:01.695344100Z</date>
+  <millis>1623512401695</millis>
+  <nanos>344100</nanos>
+  <sequence>272</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -1101683185} is extracted for car -1334651043</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:01.695344100Z</date>
+  <millis>1623512401695</millis>
+  <nanos>344100</nanos>
+  <sequence>270</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Detail -649132324 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:01.695344100Z</date>
+  <millis>1623512401695</millis>
+  <nanos>344100</nanos>
+  <sequence>269</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>32</thread>
+  <message>Detail -1101683185 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:01.696345500Z</date>
+  <millis>1623512401696</millis>
+  <nanos>345500</nanos>
+  <sequence>279</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -834593507} is extracted for car -1334651043</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:01.695344100Z</date>
+  <millis>1623512401695</millis>
+  <nanos>344100</nanos>
+  <sequence>278</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -701802616} is extracted for car -1640772189</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:01.695344100Z</date>
+  <millis>1623512401695</millis>
+  <nanos>344100</nanos>
+  <sequence>276</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -33258852} is extracted for car -1161645930</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:01.695344100Z</date>
+  <millis>1623512401695</millis>
+  <nanos>344100</nanos>
+  <sequence>277</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail 1939686322 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:01.696345500Z</date>
+  <millis>1623512401696</millis>
+  <nanos>345500</nanos>
+  <sequence>281</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, -1640772189, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -2040652758}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 1224687291}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -701802616}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:01.696345500Z</date>
+  <millis>1623512401696</millis>
+  <nanos>345500</nanos>
+  <sequence>280</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, -1334651043, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -1356703597}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -1101683185}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -834593507}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:01.697338800Z</date>
+  <millis>1623512401697</millis>
+  <nanos>338800</nanos>
+  <sequence>283</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail 21806280 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:01.697338800Z</date>
+  <millis>1623512401697</millis>
+  <nanos>338800</nanos>
+  <sequence>282</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -644463888} is extracted for car 726227693</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:01.697338800Z</date>
+  <millis>1623512401697</millis>
+  <nanos>338800</nanos>
+  <sequence>284</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail -977007249 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:01.697338800Z</date>
+  <millis>1623512401697</millis>
+  <nanos>338800</nanos>
+  <sequence>285</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -1681091045} is extracted for car 106592308</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:06.695397700Z</date>
+  <millis>1623512406695</millis>
+  <nanos>397700</nanos>
+  <sequence>286</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Detail -528329886 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:06.695397700Z</date>
+  <millis>1623512406695</millis>
+  <nanos>397700</nanos>
+  <sequence>287</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>Detail -717620909 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:06.695397700Z</date>
+  <millis>1623512406695</millis>
+  <nanos>397700</nanos>
+  <sequence>288</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>33</thread>
+  <message>Detail -2112851399 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:06.697389100Z</date>
+  <millis>1623512406697</millis>
+  <nanos>389100</nanos>
+  <sequence>289</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>Detail 600057191 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:06.697389100Z</date>
+  <millis>1623512406697</millis>
+  <nanos>389100</nanos>
+  <sequence>294</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 394432544} is extracted for car 106592308</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:06.697389100Z</date>
+  <millis>1623512406697</millis>
+  <nanos>389100</nanos>
+  <sequence>293</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -2088312490} is extracted for car -1161645930</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:06.697389100Z</date>
+  <millis>1623512406697</millis>
+  <nanos>389100</nanos>
+  <sequence>296</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -717620909} is extracted for car -1161645930</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:06.697389100Z</date>
+  <millis>1623512406697</millis>
+  <nanos>389100</nanos>
+  <sequence>292</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 600057191} is extracted for car 726227693</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:06.697389100Z</date>
+  <millis>1623512406697</millis>
+  <nanos>389100</nanos>
+  <sequence>290</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Detail -2088312490 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:06.697389100Z</date>
+  <millis>1623512406697</millis>
+  <nanos>389100</nanos>
+  <sequence>291</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>32</thread>
+  <message>Detail 394432544 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:06.697389100Z</date>
+  <millis>1623512406697</millis>
+  <nanos>389100</nanos>
+  <sequence>298</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -2112851399} is extracted for car 726227693</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:06.697389100Z</date>
+  <millis>1623512406697</millis>
+  <nanos>389100</nanos>
+  <sequence>297</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, -1161645930, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -33258852}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -2088312490}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -717620909}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:06.697389100Z</date>
+  <millis>1623512406697</millis>
+  <nanos>389100</nanos>
+  <sequence>295</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -528329886} is extracted for car 106592308</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:06.698355400Z</date>
+  <millis>1623512406698</millis>
+  <nanos>355400</nanos>
+  <sequence>301</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail -1937203914 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:06.698355400Z</date>
+  <millis>1623512406698</millis>
+  <nanos>355400</nanos>
+  <sequence>300</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -1354667242} is extracted for car -113712</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:06.698355400Z</date>
+  <millis>1623512406698</millis>
+  <nanos>355400</nanos>
+  <sequence>299</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, 726227693, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -644463888}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 600057191}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -2112851399}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:06.698355400Z</date>
+  <millis>1623512406698</millis>
+  <nanos>355400</nanos>
+  <sequence>302</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, 106592308, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -1681091045}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 394432544}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -528329886}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:06.698355400Z</date>
+  <millis>1623512406698</millis>
+  <nanos>355400</nanos>
+  <sequence>304</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail 810465401 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:06.698355400Z</date>
+  <millis>1623512406698</millis>
+  <nanos>355400</nanos>
+  <sequence>303</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1771202080} is extracted for car 1110364126</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:06.698355400Z</date>
+  <millis>1623512406698</millis>
+  <nanos>355400</nanos>
+  <sequence>305</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1564654485} is extracted for car 62163382</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:06.698355400Z</date>
+  <millis>1623512406698</millis>
+  <nanos>355400</nanos>
+  <sequence>306</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail -1748880953 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:11.696305Z</date>
+  <millis>1623512411696</millis>
+  <nanos>305000</nanos>
+  <sequence>307</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Detail -588196465 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:11.696305Z</date>
+  <millis>1623512411696</millis>
+  <nanos>305000</nanos>
+  <sequence>309</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>33</thread>
+  <message>Detail -1956321757 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:11.696305Z</date>
+  <millis>1623512411696</millis>
+  <nanos>305000</nanos>
+  <sequence>308</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>Detail -739790383 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:11.698293200Z</date>
+  <millis>1623512411698</millis>
+  <nanos>293200</nanos>
+  <sequence>310</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>Detail -1942749995 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:11.698293200Z</date>
+  <millis>1623512411698</millis>
+  <nanos>293200</nanos>
+  <sequence>315</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -453830654} is extracted for car -113712</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:11.698293200Z</date>
+  <millis>1623512411698</millis>
+  <nanos>293200</nanos>
+  <sequence>314</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -78952429} is extracted for car 62163382</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:11.698293200Z</date>
+  <millis>1623512411698</millis>
+  <nanos>293200</nanos>
+  <sequence>312</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -1942749995} is extracted for car 1110364126</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:11.698293200Z</date>
+  <millis>1623512411698</millis>
+  <nanos>293200</nanos>
+  <sequence>311</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Detail -78952429 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:11.698293200Z</date>
+  <millis>1623512411698</millis>
+  <nanos>293200</nanos>
+  <sequence>313</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>32</thread>
+  <message>Detail -453830654 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:11.698293200Z</date>
+  <millis>1623512411698</millis>
+  <nanos>293200</nanos>
+  <sequence>318</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -1956321757} is extracted for car 1110364126</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:11.698293200Z</date>
+  <millis>1623512411698</millis>
+  <nanos>293200</nanos>
+  <sequence>317</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -739790383} is extracted for car 62163382</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:11.698293200Z</date>
+  <millis>1623512411698</millis>
+  <nanos>293200</nanos>
+  <sequence>316</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -588196465} is extracted for car -113712</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:11.699290900Z</date>
+  <millis>1623512411699</millis>
+  <nanos>290900</nanos>
+  <sequence>320</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, 62163382, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1564654485}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -78952429}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -739790383}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:11.699290900Z</date>
+  <millis>1623512411699</millis>
+  <nanos>290900</nanos>
+  <sequence>319</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, 1110364126, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1771202080}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -1942749995}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -1956321757}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:11.699290900Z</date>
+  <millis>1623512411699</millis>
+  <nanos>290900</nanos>
+  <sequence>322</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -1629690675} is extracted for car -1499788787</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:11.699290900Z</date>
+  <millis>1623512411699</millis>
+  <nanos>290900</nanos>
+  <sequence>323</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail -1458423968 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:11.699290900Z</date>
+  <millis>1623512411699</millis>
+  <nanos>290900</nanos>
+  <sequence>321</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, -113712, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -1354667242}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -453830654}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -588196465}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:11.699290900Z</date>
+  <millis>1623512411699</millis>
+  <nanos>290900</nanos>
+  <sequence>324</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1481849444} is extracted for car 1920025539</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:11.699290900Z</date>
+  <millis>1623512411699</millis>
+  <nanos>290900</nanos>
+  <sequence>325</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail -1548148162 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:11.699290900Z</date>
+  <millis>1623512411699</millis>
+  <nanos>290900</nanos>
+  <sequence>327</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail -1021509531 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:11.699290900Z</date>
+  <millis>1623512411699</millis>
+  <nanos>290900</nanos>
+  <sequence>326</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 2072917912} is extracted for car 1115183656</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:16.697177600Z</date>
+  <millis>1623512416697</millis>
+  <nanos>177600</nanos>
+  <sequence>328</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Detail 1962165427 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:16.697177600Z</date>
+  <millis>1623512416697</millis>
+  <nanos>177600</nanos>
+  <sequence>330</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>Detail -794350114 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:16.697177600Z</date>
+  <millis>1623512416697</millis>
+  <nanos>177600</nanos>
+  <sequence>329</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>33</thread>
+  <message>Detail 2007660757 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:16.699172400Z</date>
+  <millis>1623512416699</millis>
+  <nanos>172400</nanos>
+  <sequence>331</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>Detail 1832263540 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:16.699172400Z</date>
+  <millis>1623512416699</millis>
+  <nanos>172400</nanos>
+  <sequence>333</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Detail 1569484663 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:16.699172400Z</date>
+  <millis>1623512416699</millis>
+  <nanos>172400</nanos>
+  <sequence>332</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 1832263540} is extracted for car 1920025539</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:16.699172400Z</date>
+  <millis>1623512416699</millis>
+  <nanos>172400</nanos>
+  <sequence>334</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>32</thread>
+  <message>Detail 163384142 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:16.699172400Z</date>
+  <millis>1623512416699</millis>
+  <nanos>172400</nanos>
+  <sequence>335</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 1569484663} is extracted for car -1499788787</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:16.699172400Z</date>
+  <millis>1623512416699</millis>
+  <nanos>172400</nanos>
+  <sequence>338</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 2007660757} is extracted for car -1499788787</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:16.699172400Z</date>
+  <millis>1623512416699</millis>
+  <nanos>172400</nanos>
+  <sequence>336</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 163384142} is extracted for car 1115183656</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:16.699172400Z</date>
+  <millis>1623512416699</millis>
+  <nanos>172400</nanos>
+  <sequence>339</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, -1499788787, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -1629690675}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 1569484663}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 2007660757}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:16.699172400Z</date>
+  <millis>1623512416699</millis>
+  <nanos>172400</nanos>
+  <sequence>337</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 1962165427} is extracted for car 1920025539</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:16.700168700Z</date>
+  <millis>1623512416700</millis>
+  <nanos>168700</nanos>
+  <sequence>342</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail -1333413641 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:16.700168700Z</date>
+  <millis>1623512416700</millis>
+  <nanos>168700</nanos>
+  <sequence>341</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -1653031592} is extracted for car -1880338108</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:16.700168700Z</date>
+  <millis>1623512416700</millis>
+  <nanos>168700</nanos>
+  <sequence>340</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -794350114} is extracted for car 1115183656</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:16.700168700Z</date>
+  <millis>1623512416700</millis>
+  <nanos>168700</nanos>
+  <sequence>343</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, 1920025539, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1481849444}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 1832263540}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 1962165427}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:16.700168700Z</date>
+  <millis>1623512416700</millis>
+  <nanos>168700</nanos>
+  <sequence>345</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 657927839} is extracted for car -810939950</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:16.700168700Z</date>
+  <millis>1623512416700</millis>
+  <nanos>168700</nanos>
+  <sequence>344</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, 1115183656, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 2072917912}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 163384142}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -794350114}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:16.700168700Z</date>
+  <millis>1623512416700</millis>
+  <nanos>168700</nanos>
+  <sequence>346</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail -992003450 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:16.700168700Z</date>
+  <millis>1623512416700</millis>
+  <nanos>168700</nanos>
+  <sequence>348</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail 326897042 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:16.700168700Z</date>
+  <millis>1623512416700</millis>
+  <nanos>168700</nanos>
+  <sequence>347</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1106277458} is extracted for car -1561543501</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:21.697394Z</date>
+  <millis>1623512421697</millis>
+  <nanos>394000</nanos>
+  <sequence>349</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Detail 1510174425 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:21.697394Z</date>
+  <millis>1623512421697</millis>
+  <nanos>394000</nanos>
+  <sequence>351</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>33</thread>
+  <message>Detail 481872685 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:21.697394Z</date>
+  <millis>1623512421697</millis>
+  <nanos>394000</nanos>
+  <sequence>350</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>Detail 1472266869 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:21.699388600Z</date>
+  <millis>1623512421699</millis>
+  <nanos>388600</nanos>
+  <sequence>352</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>Detail 1737480942 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:21.699388600Z</date>
+  <millis>1623512421699</millis>
+  <nanos>388600</nanos>
+  <sequence>357</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -1145273652} is extracted for car -1561543501</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:21.699388600Z</date>
+  <millis>1623512421699</millis>
+  <nanos>388600</nanos>
+  <sequence>356</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -1353832637} is extracted for car -1880338108</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:21.699388600Z</date>
+  <millis>1623512421699</millis>
+  <nanos>388600</nanos>
+  <sequence>355</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 1737480942} is extracted for car -810939950</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:21.699388600Z</date>
+  <millis>1623512421699</millis>
+  <nanos>388600</nanos>
+  <sequence>354</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>32</thread>
+  <message>Detail -1145273652 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:21.699388600Z</date>
+  <millis>1623512421699</millis>
+  <nanos>388600</nanos>
+  <sequence>353</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Detail -1353832637 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:21.699388600Z</date>
+  <millis>1623512421699</millis>
+  <nanos>388600</nanos>
+  <sequence>360</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 481872685} is extracted for car -810939950</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:21.699388600Z</date>
+  <millis>1623512421699</millis>
+  <nanos>388600</nanos>
+  <sequence>359</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 1472266869} is extracted for car -1880338108</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:21.699388600Z</date>
+  <millis>1623512421699</millis>
+  <nanos>388600</nanos>
+  <sequence>358</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 1510174425} is extracted for car -1561543501</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:21.700386800Z</date>
+  <millis>1623512421700</millis>
+  <nanos>386800</nanos>
+  <sequence>362</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, -1880338108, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -1653031592}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -1353832637}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 1472266869}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:21.699388600Z</date>
+  <millis>1623512421699</millis>
+  <nanos>388600</nanos>
+  <sequence>361</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, -810939950, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 657927839}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 1737480942}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 481872685}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:21.700386800Z</date>
+  <millis>1623512421700</millis>
+  <nanos>386800</nanos>
+  <sequence>365</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail 22562736 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:21.700386800Z</date>
+  <millis>1623512421700</millis>
+  <nanos>386800</nanos>
+  <sequence>364</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1882773485} is extracted for car 1182819127</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:21.700386800Z</date>
+  <millis>1623512421700</millis>
+  <nanos>386800</nanos>
+  <sequence>363</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, -1561543501, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1106277458}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -1145273652}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 1510174425}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:21.700386800Z</date>
+  <millis>1623512421700</millis>
+  <nanos>386800</nanos>
+  <sequence>367</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Detail 744140037 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:21.700386800Z</date>
+  <millis>1623512421700</millis>
+  <nanos>386800</nanos>
+  <sequence>366</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1280538683} is extracted for car 1474788465</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:21.700386800Z</date>
+  <millis>1623512421700</millis>
+  <nanos>386800</nanos>
+  <sequence>369</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Detail -1035369088 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:21.700386800Z</date>
+  <millis>1623512421700</millis>
+  <nanos>386800</nanos>
+  <sequence>368</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 199642109} is extracted for car -585254628</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:26.698328300Z</date>
+  <millis>1623512426698</millis>
+  <nanos>328300</nanos>
+  <sequence>370</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Detail 1042828255 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:26.698328300Z</date>
+  <millis>1623512426698</millis>
+  <nanos>328300</nanos>
+  <sequence>372</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>Detail 975752942 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:26.698328300Z</date>
+  <millis>1623512426698</millis>
+  <nanos>328300</nanos>
+  <sequence>371</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>33</thread>
+  <message>Detail -204348497 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:26.700323Z</date>
+  <millis>1623512426700</millis>
+  <nanos>323000</nanos>
+  <sequence>373</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>Detail 1742782614 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:26.700323Z</date>
+  <millis>1623512426700</millis>
+  <nanos>323000</nanos>
+  <sequence>377</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -398598279} is extracted for car -585254628</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:26.700323Z</date>
+  <millis>1623512426700</millis>
+  <nanos>323000</nanos>
+  <sequence>378</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 1760649680} is extracted for car 1182819127</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:26.700323Z</date>
+  <millis>1623512426700</millis>
+  <nanos>323000</nanos>
+  <sequence>374</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>32</thread>
+  <message>Detail -398598279 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:26.700323Z</date>
+  <millis>1623512426700</millis>
+  <nanos>323000</nanos>
+  <sequence>376</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 1742782614} is extracted for car 1474788465</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:26.700323Z</date>
+  <millis>1623512426700</millis>
+  <nanos>323000</nanos>
+  <sequence>375</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Detail 1760649680 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:26.700323Z</date>
+  <millis>1623512426700</millis>
+  <nanos>323000</nanos>
+  <sequence>381</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 975752942} is extracted for car 1474788465</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:26.700323Z</date>
+  <millis>1623512426700</millis>
+  <nanos>323000</nanos>
+  <sequence>380</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, -204348497} is extracted for car 1182819127</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:26.700323Z</date>
+  <millis>1623512426700</millis>
+  <nanos>323000</nanos>
+  <sequence>379</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 1042828255} is extracted for car -585254628</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:26.701321300Z</date>
+  <millis>1623512426701</millis>
+  <nanos>321300</nanos>
+  <sequence>382</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Car {class nsu.oop.car.factory.lab.model.factory.carfactory.Car, 1474788465, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, 1280538683}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, 1742782614}, {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 975752942}} is added to storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:26.701321300Z</date>
+  <millis>1623512426701</millis>
+  <nanos>321300</nanos>
+  <sequence>383</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeA, -879274982} is extracted for car 1323294310</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:26.701321300Z</date>
+  <millis>1623512426701</millis>
+  <nanos>321300</nanos>
+  <sequence>384</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Detail -1838728349 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:31.698525300Z</date>
+  <millis>1623512431698</millis>
+  <nanos>525300</nanos>
+  <sequence>385</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Detail 904814709 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:31.698525300Z</date>
+  <millis>1623512431698</millis>
+  <nanos>525300</nanos>
+  <sequence>387</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>33</thread>
+  <message>Detail 55915554 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:31.698525300Z</date>
+  <millis>1623512431698</millis>
+  <nanos>525300</nanos>
+  <sequence>386</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>Detail -888442617 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:31.700518900Z</date>
+  <millis>1623512431700</millis>
+  <nanos>518900</nanos>
+  <sequence>389</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>32</thread>
+  <message>Detail 1168305537 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:31.700518900Z</date>
+  <millis>1623512431700</millis>
+  <nanos>518900</nanos>
+  <sequence>391</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Detail 872305401 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:31.700518900Z</date>
+  <millis>1623512431700</millis>
+  <nanos>518900</nanos>
+  <sequence>388</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>Detail -1297754583 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:31.700518900Z</date>
+  <millis>1623512431700</millis>
+  <nanos>518900</nanos>
+  <sequence>390</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeB, -1297754583} is extracted for car 1323294310</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:31.700518900Z</date>
+  <millis>1623512431700</millis>
+  <nanos>518900</nanos>
+  <sequence>392</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.carfactory.CreateCarTask</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Detail {class nsu.oop.car.factory.lab.model.factory.details.DetailTypeC, 904814709} is extracted for car 1323294310</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:36.699201400Z</date>
+  <millis>1623512436699</millis>
+  <nanos>201400</nanos>
+  <sequence>393</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Detail -896359836 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:36.699201400Z</date>
+  <millis>1623512436699</millis>
+  <nanos>201400</nanos>
+  <sequence>395</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>Detail -1010520856 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:36.699201400Z</date>
+  <millis>1623512436699</millis>
+  <nanos>201400</nanos>
+  <sequence>394</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>33</thread>
+  <message>Detail 2019027273 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:36.701195800Z</date>
+  <millis>1623512436701</millis>
+  <nanos>195800</nanos>
+  <sequence>396</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>32</thread>
+  <message>Detail 864685534 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:36.701195800Z</date>
+  <millis>1623512436701</millis>
+  <nanos>195800</nanos>
+  <sequence>398</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>Detail 2022074457 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:36.701195800Z</date>
+  <millis>1623512436701</millis>
+  <nanos>195800</nanos>
+  <sequence>397</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Detail -926759278 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:41.701205700Z</date>
+  <millis>1623512441701</millis>
+  <nanos>205700</nanos>
+  <sequence>399</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Detail 1501516845 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:41.701205700Z</date>
+  <millis>1623512441701</millis>
+  <nanos>205700</nanos>
+  <sequence>401</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>33</thread>
+  <message>Detail -182600368 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:41.701205700Z</date>
+  <millis>1623512441701</millis>
+  <nanos>205700</nanos>
+  <sequence>400</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>Detail 1224087831 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:41.703200Z</date>
+  <millis>1623512441703</millis>
+  <nanos>200000</nanos>
+  <sequence>402</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>32</thread>
+  <message>Detail -29819465 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:41.703200Z</date>
+  <millis>1623512441703</millis>
+  <nanos>200000</nanos>
+  <sequence>404</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Detail -1329007780 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:41.703200Z</date>
+  <millis>1623512441703</millis>
+  <nanos>200000</nanos>
+  <sequence>403</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>Detail 1439199075 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:46.701888Z</date>
+  <millis>1623512446701</millis>
+  <nanos>888000</nanos>
+  <sequence>405</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Detail 1113265976 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:46.701888Z</date>
+  <millis>1623512446701</millis>
+  <nanos>888000</nanos>
+  <sequence>407</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>Detail -1887268698 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:46.701888Z</date>
+  <millis>1623512446701</millis>
+  <nanos>888000</nanos>
+  <sequence>406</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>33</thread>
+  <message>Detail -1726463815 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:46.703881200Z</date>
+  <millis>1623512446703</millis>
+  <nanos>881200</nanos>
+  <sequence>408</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>32</thread>
+  <message>Detail -1607325202 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:46.703881200Z</date>
+  <millis>1623512446703</millis>
+  <nanos>881200</nanos>
+  <sequence>409</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Detail 588452414 has proceeded to the storage</message>
+</record>
+<record>
+  <date>2021-06-12T15:40:46.703881200Z</date>
+  <millis>1623512446703</millis>
+  <nanos>881200</nanos>
+  <sequence>410</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>nsu.oop.car.factory.lab.model.factory.providers.AddDetailTask</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>Detail 192948091 has proceeded to the storage</message>
+</record>
